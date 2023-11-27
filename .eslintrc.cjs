@@ -11,7 +11,7 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:react-hooks/recommended',
     "plugin:prettier/recommended",
-    "plugin:jest/recommended",
+    '@react-native-community/eslint-config',
     "prettier",
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs', 'node_modules'],
@@ -23,7 +23,7 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: "script"
   },
-  plugins: ['react-refresh', '@typescript-eslint', 'react-hooks', 'jest'],
+  plugins: ['react-refresh', '@typescript-eslint', 'react-hooks'],
   rules: {
     'react-refresh/only-export-components': [
       'warn',
@@ -52,4 +52,3 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
   },
 }
-

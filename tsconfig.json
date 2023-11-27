@@ -10,14 +10,13 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
-    "module": "ESNext",
+    "module": "AMD",
     "moduleResolution": "Node",
-    "resolveJsonModule": true,
     "isolatedModules": true,
     "noImplicitAny": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-native"
   },
   "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "extends": "@tsconfig/react-native/tsconfig.json",
 }
