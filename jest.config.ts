@@ -6,7 +6,7 @@ const jestConfig: Config.InitialOptions = {
   moduleFileExtensions: ['ts', 'tsx', 'js', 'json'],
   moduleDirectories: ['node_modules', 'src'],
   collectCoverage: true,
-  collectCoverageFrom: ['src/**/*.tsx'],
+  collectCoverageFrom: ['components/**/*.tsx'],
   coverageReporters: ['json', 'lcov', 'text', 'clover'],
   setupFilesAfterEnv: ['<rootDir>/jest.setup.ts'],
 };
