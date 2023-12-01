@@ -20,7 +20,6 @@ const styles = StyleSheet.create({
     height: '8%',
     justifyContent: 'space-between',
     flexDirection: 'row',
-    marginBottom: 25,
   },
   icon: {
     width: '15%',
