@@ -12,13 +12,14 @@ export default function Verb() {
 
 const styles = StyleSheet.create({
   verbContainer: {
-    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: '#C1B97A',
+    height: '30%',
   },
   verb: {
     fontSize: 32,
+    alignItems: 'center',
   },
   translation: {
     fontSize: 16,

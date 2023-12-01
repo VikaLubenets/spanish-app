@@ -14,9 +14,12 @@ export default function Card() {
 
 const styles = StyleSheet.create({
   card: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
     backgroundColor: '#EAEAEA',
+    width: '80%',
+    height: '50%',
+    borderRadius: 15,
+    justifyContent: 'space-between',
+    padding: 0,
+    margin: 0,
   },
 });
