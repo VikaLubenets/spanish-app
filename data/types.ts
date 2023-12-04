@@ -6,13 +6,9 @@ export interface ActionType {
 }
 
 export interface CardState {
-  testResults: string[];
+  verb: Record<string, never>;
   tense: string;
   pronoun: string;
-  currentVerb: string;
-  correctVerbForm: string;
-  currentVerbTranslationRus: string;
-  currentVerbTranslationEng: string;
   currentVerbNum: number;
   dailyGoal: number;
   error: null | string;

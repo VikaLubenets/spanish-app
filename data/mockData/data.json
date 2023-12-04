@@ -1,7 +1,7 @@
 {
   "verbs": [
     {
-      "infinitive": "ser",
+      "infinitive": { "spanish": "ser", "russian": "быть", "english": "to be"},
       "indicativo": {
         "yo": {"present": "soy", "preterite": "fui", "imperfect": "era", "future": "seré", "conditional": "sería"},
         "tú": {"present": "eres", "preterite": "fuiste", "imperfect": "eras", "future": "serás", "conditional": "serías"},
@@ -20,7 +20,7 @@
       }
     },
     {
-      "infinitive": "tener",
+      "infinitive": { "spanish": "tener", "russian": "иметь", "english": "to have" },
       "indicativo": {
         "yo": {"present": "tengo", "preterite": "tuve", "imperfect": "tenía", "future": "tendré", "conditional": "tendría"},
         "tú": {"present": "tienes", "preterite": "tuviste", "imperfect": "tenías", "future": "tendrás", "conditional": "tendrías"},
@@ -39,7 +39,7 @@
       }
     },
     {
-      "infinitive": "hacer",
+      "infinitive": { "spanish": "hacer", "russian": "делать", "english": "to do/make" },
       "indicativo": {
         "yo": {"present": "hago", "preterite": "hice", "imperfect": "hacía", "future": "haré", "conditional": "haría"},
         "tú": {"present": "haces", "preterite": "hiciste", "imperfect": "hacías", "future": "harás", "conditional": "harías"},
@@ -58,7 +58,7 @@
       }
     },
     {
-      "infinitive": "ir",
+      "infinitive": { "spanish": "ir", "russian": "идти", "english": "to go" },
       "indicativo": {
         "yo": {"present": "voy", "preterite": "fui", "imperfect": "iba", "future": "iré", "conditional": "iría"},
         "tú": {"present": "vas", "preterite": "fuiste", "imperfect": "ibas", "future": "irás", "conditional": "irías"},
@@ -77,7 +77,7 @@
       }
     },
     {
-      "infinitive": "decir",
+      "infinitive": { "spanish": "decir", "russian": "говорить", "english": "to say" },
       "indicativo": {
         "yo": {"present": "digo", "preterite": "dije", "imperfect": "decía", "future": "diré", "conditional": "diría"},
         "tú": {"present": "dices", "preterite": "dijiste", "imperfect": "decías", "future": "dirás", "conditional": "dirías"},
@@ -96,7 +96,7 @@
   }
 },
 {
-  "infinitive": "estar",
+  "infinitive": { "spanish": "estar", "russian": "быть (в каком-то состоянии)", "english": "to be (in some state)" },
   "indicativo": {
     "yo": {"present": "estoy", "preterite": "estuve", "imperfect": "estaba", "future": "estaré", "conditional": "estaría"},
     "tú": {"present": "estás", "preterite": "estuviste", "imperfect": "estabas", "future": "estarás", "conditional": "estarías"},
@@ -115,7 +115,7 @@
   }
 },
 {
-  "infinitive": "haber",
+  "infinitive": { "spanish": "haber", "russian": "иметь", "english": "to have" },
   "indicativo": {
     "yo": {"present": "he", "preterite": "hube", "imperfect": "había", "future": "habré", "conditional": "habría"},
     "tú": {"present": "has", "preterite": "hubiste", "imperfect": "habías", "future": "habrás", "conditional": "habrías"},
@@ -134,7 +134,7 @@
   }
 },
 {
-  "infinitive": "poder",
+  "infinitive": { "spanish": "poder", "russian": "мочь", "english": "to be able to/can" },
   "indicativo": {
     "yo": {"present": "puedo", "preterite": "pude", "imperfect": "podía", "future": "podré", "conditional": "podría"},
     "tú": {"present": "puedes", "preterite": "pudiste", "imperfect": "podías", "future": "podrás", "conditional": "podrías"},
@@ -153,7 +153,7 @@
   }
 },
 {
-  "infinitive": "venir",
+  "infinitive": { "spanish": "venir", "russian": "приходить", "english": "to come" },
   "indicativo": {
     "yo": {"present": "vengo", "preterite": "vine", "imperfect": "venía", "future": "vendré", "conditional": "vendría"},
     "tú": {"present": "vienes", "preterite": "viniste", "imperfect": "venías", "future": "vendrás", "conditional": "vendrías"},
@@ -172,7 +172,7 @@
   }
 },
 {
-  "infinitive": "ver",
+  "infinitive": { "spanish": "ver", "russian": "видеть", "english": "to see" },
   "indicativo": {
     "yo": {"present": "veo", "preterite": "vi", "imperfect": "veía", "future": "veré", "conditional": "vería"},
     "tú": {"present": "ves", "preterite": "viste", "imperfect": "veías", "future": "verás", "conditional": "verías"},

@@ -2,13 +2,9 @@ import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { ActionType, AppDispatch, CardState } from '../types';
 
 const initialState: CardState = {
-  testResults: [],
+  verb: {},
   tense: '',
   pronoun: '',
-  currentVerb: '',
-  correctVerbForm: '',
-  currentVerbTranslationRus: '',
-  currentVerbTranslationEng: '',
   currentVerbNum: 0,
   dailyGoal: 100,
   error: null,
@@ -20,3 +16,5 @@ export const verbsSlice = createSlice({
   initialState,
   reducers: {},
 });
+
+const getRandomVerb = () => {};
