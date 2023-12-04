@@ -1,0 +1,194 @@
+{
+  "verbs": [
+    {
+      "infinitive": "ser",
+      "indicativo": {
+        "yo": {"present": "soy", "preterite": "fui", "imperfect": "era", "future": "seré", "conditional": "sería"},
+        "tú": {"present": "eres", "preterite": "fuiste", "imperfect": "eras", "future": "serás", "conditional": "serías"},
+        "él/ella/usted": {"present": "es", "preterite": "fue", "imperfect": "era", "future": "será", "conditional": "sería"},
+        "nosotros/nosotras": {"present": "somos", "preterite": "fuimos", "imperfect": "éramos", "future": "seremos", "conditional": "seríamos"},
+        "vosotros/vosotras": {"present": "sois", "preterite": "fuisteis", "imperfect": "erais", "future": "seréis", "conditional": "seríais"},
+        "ellos/ellas/ustedes": {"present": "son", "preterite": "fueron", "imperfect": "eran", "future": "serán", "conditional": "serían"}
+      },
+      "subjuntivo": {
+        "yo": {"present": "sea", "imperfect": "fuera", "compuesto": "haya sido", "plusquamperfecto": "hubiera sido", "future": "fuere"},
+        "tú": {"present": "seas", "imperfect": "fueras", "compuesto": "hayas sido", "plusquamperfecto": "hubieras sido", "future": "fueres"},
+        "él/ella/usted": {"present": "sea", "imperfect": "fuera", "compuesto": "haya sido", "plusquamperfecto": "hubiera sido", "future": "fuere"},
+        "nosotros/nosotras": {"present": "seamos", "imperfect": "fuéramos", "compuesto": "hayamos sido", "plusquamperfecto": "hubiéramos sido", "future": "fuéremos"},
+        "vosotros/vosotras": {"present": "seáis", "imperfect": "fuerais", "compuesto": "hayáis sido", "plusquamperfecto": "hubierais sido", "future": "fuereis"},
+        "ellos/ellas/ustedes": {"present": "sean", "imperfect": "fueran", "compuesto": "hayan sido", "plusquamperfecto": "hubieran sido", "future": "fueren"}
+      }
+    },
+    {
+      "infinitive": "tener",
+      "indicativo": {
+        "yo": {"present": "tengo", "preterite": "tuve", "imperfect": "tenía", "future": "tendré", "conditional": "tendría"},
+        "tú": {"present": "tienes", "preterite": "tuviste", "imperfect": "tenías", "future": "tendrás", "conditional": "tendrías"},
+        "él/ella/usted": {"present": "tiene", "preterite": "tuvo", "imperfect": "tenía", "future": "tendrá", "conditional": "tendría"},
+        "nosotros/nosotras": {"present": "tenemos", "preterite": "tuvimos", "imperfect": "teníamos", "future": "tendremos", "conditional": "tendríamos"},
+        "vosotros/vosotras": {"present": "tenéis", "preterite": "tuvisteis", "imperfect": "teníais", "future": "tendréis", "conditional": "tendríais"},
+        "ellos/ellas/ustedes": {"present": "tienen", "preterite": "tuvieron", "imperfect": "tenían", "future": "tendrán", "conditional": "tendrían"}
+      },
+      "subjuntivo": {
+        "yo": {"present": "tenga", "imperfect": "tuviera", "compuesto": "haya tenido", "plusquamperfecto": "hubiera tenido", "future": "tuviere"},
+        "tú": {"present": "tengas", "imperfect": "tuvieras", "compuesto": "hayas tenido", "plusquamperfecto": "hubieras tenido", "future": "tuvieres"},
+        "él/ella/usted": {"present": "tenga", "imperfect": "tuviera", "compuesto": "haya tenido", "plusquamperfecto": "hubiera tenido", "future": "tuviere"},
+        "nosotros/nosotras": {"present": "tengamos", "imperfect": "tuviéramos", "compuesto": "hayamos tenido", "plusquamperfecto": "hubiéramos tenido", "future": "tuviéremos"},
+        "vosotros/vosotras": {"present": "tengáis", "imperfect": "tuviérais", "compuesto": "hayáis tenido", "plusquamperfecto": "hubiérais tenido", "future": "tuviéreis"},
+        "ellos/ellas/ustedes": {"present": "tengan", "imperfect": "tuvieran", "compuesto": "hayan tenido", "plusquamperfecto": "hubieran tenido", "future": "tuvieren"}
+      }
+    },
+    {
+      "infinitive": "hacer",
+      "indicativo": {
+        "yo": {"present": "hago", "preterite": "hice", "imperfect": "hacía", "future": "haré", "conditional": "haría"},
+        "tú": {"present": "haces", "preterite": "hiciste", "imperfect": "hacías", "future": "harás", "conditional": "harías"},
+        "él/ella/usted": {"present": "hace", "preterite": "hizo", "imperfect": "hacía", "future": "hará", "conditional": "haría"},
+        "nosotros/nosotras": {"present": "hacemos", "preterite": "hicimos", "imperfect": "hacíamos", "future": "haremos", "conditional": "haríamos"},
+        "vosotros/vosotras": {"present": "hacéis", "preterite": "hicisteis", "imperfect": "hacíais", "future": "haréis", "conditional": "haríais"},
+        "ellos/ellas/ustedes": {"present": "hacen", "preterite": "hicieron", "imperfect": "hacían", "future": "harán", "conditional": "harían"}
+      },
+      "subjuntivo": {
+        "yo": {"present": "haga", "imperfect": "hiciera", "compuesto": "haya hecho", "plusquamperfecto": "hubiera hecho", "future": "hiciere"},
+        "tú": {"present": "hagas", "imperfect": "hicieras", "compuesto": "hayas hecho", "plusquamperfecto": "hubieras hecho", "future": "hicieres"},
+        "él/ella/usted": {"present": "haga", "imperfect": "hiciera", "compuesto": "haya hecho", "plusquamperfecto": "hubiera hecho", "future": "hiciere"},
+        "nosotros/nosotras": {"present": "hagamos", "imperfect": "hiciéramos", "compuesto": "hayamos hecho", "plusquamperfecto": "hubiéramos hecho", "future": "hiciéremos"},
+        "vosotros/vosotras": {"present": "hagáis", "imperfect": "hiciérais", "compuesto": "hayáis hecho", "plusquamperfecto": "hubiérais hecho", "future": "hiciéreis"},
+        "ellos/ellas/ustedes": {"present": "hagan", "imperfect": "hicieran", "compuesto": "hayan hecho", "plusquamperfecto": "hubieran hecho", "future": "hicieren"}
+      }
+    },
+    {
+      "infinitive": "ir",
+      "indicativo": {
+        "yo": {"present": "voy", "preterite": "fui", "imperfect": "iba", "future": "iré", "conditional": "iría"},
+        "tú": {"present": "vas", "preterite": "fuiste", "imperfect": "ibas", "future": "irás", "conditional": "irías"},
+        "él/ella/usted": {"present": "va", "preterite": "fue", "imperfect": "iba", "future": "irá", "conditional": "iría"},
+        "nosotros/nosotras": {"present": "vamos", "preterite": "fuimos", "imperfect": "íbamos", "future": "iremos", "conditional": "iríamos"},
+        "vosotros/vosotras": {"present": "vais", "preterite": "fuisteis", "imperfect": "ibais", "future": "iréis", "conditional": "iríais"},
+        "ellos/ellas/ustedes": {"present": "van", "preterite": "fueron", "imperfect": "iban", "future": "irán", "conditional": "irían"}
+      },
+      "subjuntivo": {
+        "yo": {"present": "vaya", "imperfect": "fuera", "compuesto": "haya ido", "plusquamperfecto": "hubiera ido", "future": "fuere"},
+        "tú": {"present": "vayas", "imperfect": "fueras", "compuesto": "hayas ido", "plusquamperfecto": "hubieras ido", "future": "vieres"},
+        "él/ella/usted": {"present": "vaya", "imperfect": "fuera", "compuesto": "haya ido", "plusquamperfecto": "hubiera ido", "future": "fuere"},
+        "nosotros/nosotras": {"present": "vayamos", "imperfect": "fuéramos", "compuesto": "hayamos ido", "plusquamperfecto": "hubiéramos ido", "future": "fuéremos"},
+        "vosotros/vosotras": {"present": "vayáis", "imperfect": "fuerais", "compuesto": "hayáis ido", "plusquamperfecto": "hubiérais ido", "future": "fuereis"},
+        "ellos/ellas/ustedes": {"present": "vayan", "imperfect": "fueran", "compuesto": "hayan ido", "plusquamperfecto": "hubieran ido", "future": "vieren"}
+      }
+    },
+    {
+      "infinitive": "decir",
+      "indicativo": {
+        "yo": {"present": "digo", "preterite": "dije", "imperfect": "decía", "future": "diré", "conditional": "diría"},
+        "tú": {"present": "dices", "preterite": "dijiste", "imperfect": "decías", "future": "dirás", "conditional": "dirías"},
+        "él/ella/usted": {"present": "dice", "preterite": "dijo", "imperfect": "decía", "future": "dirá", "conditional": "diría"},
+        "nosotros/nosotras": {"present": "decimos", "preterite": "dijimos", "imperfect": "decíamos", "future": "diremos", "conditional": "diríamos"},
+        "vosotros/vosotras": {"present": "decís", "preterite": "dijisteis", "imperfect": "decíais", "future": "diréis", "conditional": "diríais"},
+        "ellos/ellas/ustedes": {"present": "dicen", "preterite": "dijeron", "imperfect": "decían", "future": "dirán", "conditional": "dirían"}
+      },
+      "subjuntivo": {
+        "yo": {"present": "diga", "imperfect": "dijera", "compuesto": "haya dicho", "plusquamperfecto": "hubiera dicho", "future": "dijere"},
+        "tú": {"present": "digas", "imperfect": "dijeras", "compuesto": "hayas dicho", "plusquamperfecto": "hubieras dicho", "future": "dijeres"},
+        "él/ella/usted": {"present": "diga", "imperfect": "dijera", "compuesto": "haya dicho", "plusquamperfecto": "hubiera dicho", "future": "dijere"},
+        "nosotros/nosotras": {"present": "digamos", "imperfect": "dijéramos", "compuesto": "hayamos dicho", "plusquamperfecto": "hubiéramos dicho", "future": "dijéremos"},
+    "vosotros/vosotras": {"present": "digáis", "imperfect": "dijérais", "compuesto": "hayáis dicho", "plusquamperfecto": "hubiérais dicho", "future": "dijéreis"},
+    "ellos/ellas/ustedes": {"present": "digan", "imperfect": "dijeran", "compuesto": "hayan dicho", "plusquamperfecto": "hubieran dicho", "future": "dijeren"}
+  }
+},
+{
+  "infinitive": "estar",
+  "indicativo": {
+    "yo": {"present": "estoy", "preterite": "estuve", "imperfect": "estaba", "future": "estaré", "conditional": "estaría"},
+    "tú": {"present": "estás", "preterite": "estuviste", "imperfect": "estabas", "future": "estarás", "conditional": "estarías"},
+    "él/ella/usted": {"present": "está", "preterite": "estuvo", "imperfect": "estaba", "future": "estará", "conditional": "estaría"},
+    "nosotros/nosotras": {"present": "estamos", "preterite": "estuvimos", "imperfect": "estábamos", "future": "estaremos", "conditional": "estaríamos"},
+    "vosotros/vosotras": {"present": "estáis", "preterite": "estuvisteis", "imperfect": "estabais", "future": "estaréis", "conditional": "estaríais"},
+    "ellos/ellas/ustedes": {"present": "están", "preterite": "estuvieron", "imperfect": "estaban", "future": "estarán", "conditional": "estarían"}
+  },
+  "subjuntivo": {
+    "yo": {"present": "esté", "imperfect": "estuviera", "compuesto": "haya estado", "plusquamperfecto": "hubiera estado", "future": "estuviere"},
+    "tú": {"present": "estés", "imperfect": "estuvieras", "compuesto": "hayas estado", "plusquamperfecto": "hubieras estado", "future": "estuvieres"},
+    "él/ella/usted": {"present": "esté", "imperfect": "estuviera", "compuesto": "haya estado", "plusquamperfecto": "hubiera estado", "future": "estuviere"},
+    "nosotros/nosotras": {"present": "estemos", "imperfect": "estuviéramos", "compuesto": "hayamos estado", "plusquamperfecto": "hubiéramos estado", "future": "estuviéremos"},
+    "vosotros/vosotras": {"present": "estéis", "imperfect": "estuviérais", "compuesto": "hayáis estado", "plusquamperfecto": "hubiérais estado", "future": "estuviéreis"},
+    "ellos/ellas/ustedes": {"present": "estén", "imperfect": "estuvieran", "compuesto": "hayan estado", "plusquamperfecto": "hubieran estado", "future": "estuvieren"}
+  }
+},
+{
+  "infinitive": "haber",
+  "indicativo": {
+    "yo": {"present": "he", "preterite": "hube", "imperfect": "había", "future": "habré", "conditional": "habría"},
+    "tú": {"present": "has", "preterite": "hubiste", "imperfect": "habías", "future": "habrás", "conditional": "habrías"},
+    "él/ella/usted": {"present": "ha", "preterite": "hubo", "imperfect": "había", "future": "habrá", "conditional": "habría"},
+    "nosotros/nosotras": {"present": "hemos", "preterite": "hubimos", "imperfect": "habíamos", "future": "habremos", "conditional": "habríamos"},
+    "vosotros/vosotras": {"present": "habéis", "preterite": "hubisteis", "imperfect": "habíais", "future": "habréis", "conditional": "habríais"},
+    "ellos/ellas/ustedes": {"present": "han", "preterite": "hubieron", "imperfect": "habían", "future": "habrán", "conditional": "habrían"}
+  },
+  "subjuntivo": {
+    "yo": {"present": "haya", "imperfect": "hubiera", "compuesto": "haya habido", "plusquamperfecto": "hubiera habido", "future": "hubiere"},
+    "tú": {"present": "hayas", "imperfect": "hubieras", "compuesto": "hayas habido", "plusquamperfecto": "hubieras habido", "future": "hubieres"},
+    "él/ella/usted": {"present": "haya", "imperfect": "hubiera", "compuesto": "haya habido", "plusquamperfecto": "hubiera habido", "future": "hubiere"},
+    "nosotros/nosotras": {"present": "hayamos", "imperfect": "hubiéramos", "compuesto": "hayamos habido", "plusquamperfecto": "hubiéramos habido", "future": "hubiéremos"},
+    "vosotros/vosotras": {"present": "hayáis", "imperfect": "hubiérais", "compuesto": "hayáis habido", "plusquamperfecto": "hubiérais habido", "future": "hubiéreis"},
+    "ellos/ellas/ustedes": {"present": "hayan", "imperfect": "hubieran", "compuesto": "hayan habido", "plusquamperfecto": "hubieran habido", "future": "hubieren"}
+  }
+},
+{
+  "infinitive": "poder",
+  "indicativo": {
+    "yo": {"present": "puedo", "preterite": "pude", "imperfect": "podía", "future": "podré", "conditional": "podría"},
+    "tú": {"present": "puedes", "preterite": "pudiste", "imperfect": "podías", "future": "podrás", "conditional": "podrías"},
+    "él/ella/usted": {"present": "puede", "preterite": "pudo", "imperfect": "podía", "future": "podrá", "conditional": "podría"},
+    "nosotros/nosotras": {"present": "podemos", "preterite": "pudimos", "imperfect": "podíamos", "future": "podremos", "conditional": "podríamos"},
+    "vosotros/vosotras": {"present": "podéis", "preterite": "pudisteis", "imperfect": "podíais", "future": "podréis", "conditional": "podríais"},
+    "ellos/ellas/ustedes": {"present": "pueden", "preterite": "pudieron", "imperfect": "podían", "future": "podrán", "conditional": "podrían"}
+  },
+  "subjuntivo": {
+    "yo": {"present": "pueda", "imperfect": "pudiera", "compuesto": "haya podido", "plusquamperfecto": "hubiera podido", "future": "pudiere"},
+    "tú": {"present": "puedas", "imperfect": "pudieras", "compuesto": "hayas podido", "plusquamperfecto": "hubieras podido", "future": "pudieres"},
+    "él/ella/usted": {"present": "pueda", "imperfect": "pudiera", "compuesto": "haya podido", "plusquamperfecto": "hubiera podido", "future": "pudiere"},
+    "nosotros/nosotras": {"present": "podamos", "imperfect": "pudiéramos", "compuesto": "hayamos podido", "plusquamperfecto": "hubiéramos podido", "future": "pudiéremos"},
+    "vosotros/vosotras": {"present": "podáis", "imperfect": "pudiérais", "compuesto": "hayáis podido", "plusquamperfecto": "hubiérais podido", "future": "pudiéreis"},
+    "ellos/ellas/ustedes": {"present": "puedan", "imperfect": "pudieran", "compuesto": "hayan podido", "plusquamperfecto": "hubieran podido", "future": "pudieren"}
+  }
+},
+{
+  "infinitive": "venir",
+  "indicativo": {
+    "yo": {"present": "vengo", "preterite": "vine", "imperfect": "venía", "future": "vendré", "conditional": "vendría"},
+    "tú": {"present": "vienes", "preterite": "viniste", "imperfect": "venías", "future": "vendrás", "conditional": "vendrías"},
+    "él/ella/usted": {"present": "viene", "preterite": "vino", "imperfect": "venía", "future": "vendrá", "conditional": "vendría"},
+    "nosotros/nosotras": {"present": "venimos", "preterite": "vinimos", "imperfect": "veníamos", "future": "vendremos", "conditional": "vendríamos"},
+    "vosotros/vosotras": {"present": "venís", "preterite": "vinisteis", "imperfect": "veníais", "future": "vendréis", "conditional": "vendríais"},
+    "ellos/ellas/ustedes": {"present": "vienen", "preterite": "vinieron", "imperfect": "venían", "future": "vendrán", "conditional": "vendrían"}
+  },
+  "subjuntivo": {
+    "yo": {"present": "venga", "imperfect": "viniera", "compuesto": "haya venido", "plusquamperfecto": "hubiera venido", "future": "viniere"},
+    "tú": {"present": "vengas", "imperfect": "vinieras", "compuesto": "hayas venido", "plusquamperfecto": "hubieras venido", "future": "vinieres"},
+    "él/ella/usted": {"present": "venga", "imperfect": "viniera", "compuesto": "haya venido", "plusquamperfecto": "hubiera venido", "future": "viniere"},
+    "nosotros/nosotras": {"present": "vengamos", "imperfect": "viniéramos", "compuesto": "hayamos venido", "plusquamperfecto": "hubiéramos venido", "future": "viniéremos"},
+    "vosotros/vosotras": {"present": "vengáis", "imperfect": "vinierais", "compuesto": "hayáis venido", "plusquamperfecto": "hubiérais venido", "future": "viniereis"},
+    "ellos/ellas/ustedes": {"present": "vengan", "imperfect": "vinieran", "compuesto": "hayan venido", "plusquamperfecto": "hubieran venido", "future": "vinieren"}
+  }
+},
+{
+  "infinitive": "ver",
+  "indicativo": {
+    "yo": {"present": "veo", "preterite": "vi", "imperfect": "veía", "future": "veré", "conditional": "vería"},
+    "tú": {"present": "ves", "preterite": "viste", "imperfect": "veías", "future": "verás", "conditional": "verías"},
+    "él/ella/usted": {"present": "ve", "preterite": "vio", "imperfect": "veía", "future": "verá", "conditional": "vería"},
+    "nosotros/nosotras": {"present": "vemos", "preterite": "vimos", "imperfect": "veíamos", "future": "veremos", "conditional": "veríamos"},
+    "vosotros/vosotras": {"present": "veis", "preterite": "visteis", "imperfect": "veíais", "future": "veréis", "conditional": "veríais"},
+    "ellos/ellas/ustedes": {"present": "ven", "preterite": "vieron", "imperfect": "veían", "future": "verán", "conditional": "verían"}
+  },
+  "subjuntivo": {
+    "yo": {"present": "vea", "imperfect": "viera", "compuesto": "haya visto", "plusquamperfecto": "hubiera visto", "future": "viere"},
+    "tú": {"present": "veas", "imperfect": "vieras", "compuesto": "hayas visto", "plusquamperfecto": "hubieras visto", "future": "vieres"},
+    "él/ella/usted": {"present": "vea", "imperfect": "viera", "compuesto": "haya visto", "plusquamperfecto": "hubiera visto", "future": "viere"},
+    "nosotros/nosotras": {"present": "veamos", "imperfect": "viéramos", "compuesto": "hayamos visto", "plusquamperfecto": "hubiéramos visto", "future": "viéremos"},
+    "vosotros/vosotras": {"present": "veáis", "imperfect": "viérais", "compuesto": "hayáis visto", "plusquamperfecto": "hubiérais visto", "future": "viéreis"},
+    "ellos/ellas/ustedes": {"present": "vean", "imperfect": "vieran", "compuesto": "hayan visto", "plusquamperfecto": "hubieran visto", "future": "vieren"}
+  }
+}
+  ]
+}
